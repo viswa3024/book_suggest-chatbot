@@ -3,15 +3,15 @@ get my suggest book
 suggest book based on $language $author $genre
 suggest book based on $language $author $genre
 suggest book based on $author $language $genre
-$author
-$language
-$genre
-$language $author
-$author $language
-$author $genre
-$genre $author
-$genre $author $language
-$language $author $genre
+{author}
+{language}
+{genre}
+{language} {author}
+{author} {language}
+{author} {genre}
+{genre} {author}
+{genre} {author} {language}
+{language} {author} {genre}
 Recommend a classic English novel.
 What's a famous dystopian novel?
 Suggest a popular Spanish magic realism book.
